@@ -1,0 +1,607 @@
+,0,City,Country,Temperature (F),Latitude,Longitude,Humidity (%),Cloudiness (%),Wind Speed (mph)
+0,hobart,Hobart,AU,66.43,-42.88,147.33,82.0,75.0,6.93
+1,kruisfontein,Kruisfontein,ZA,68.82,-34.0,24.73,96.0,88.0,13.69
+2,vallenar,Vallenar,CL,55.68,-28.58,-70.76,71.0,0.0,2.84
+3,mestia,Mestia,GE,3.75,43.04,42.73,65.0,0.0,1.28
+4,illoqqortoormiut,,,,,,,,
+5,hithadhoo,Hithadhoo,MV,84.12,-0.6,73.08,100.0,88.0,2.62
+6,cape town,Cape Town,ZA,64.22,-33.93,18.42,88.0,0.0,9.17
+7,cabo san lucas,Cabo San Lucas,MX,72.05,22.89,-109.91,43.0,5.0,6.93
+8,jamestown,Jamestown,AU,78.27,-33.21,138.6,85.0,0.0,2.17
+9,bluff,Bluff,AU,88.98,-23.58,149.07,66.0,0.0,4.41
+10,mys shmidta,,,,,,,,
+11,hermanus,Hermanus,ZA,64.0,-34.42,19.24,87.0,48.0,4.0
+12,victoria,Victoria,BN,82.27,5.28,115.24,83.0,75.0,3.36
+13,upernavik,Upernavik,GL,-12.73,72.79,-56.15,100.0,8.0,4.74
+14,tagusao,Tagusao,PH,81.87,9.19,117.81,87.0,80.0,6.64
+15,albany,Albany,US,28.81,42.65,-73.75,58.0,1.0,3.36
+16,beloha,Beloha,MG,70.17,-25.17,45.06,89.0,20.0,2.95
+17,souillac,Souillac,FR,37.74,45.6,-0.6,93.0,0.0,2.95
+18,tasiilaq,Tasiilaq,GL,3.2,65.61,-37.64,71.0,0.0,17.22
+19,dikson,Dikson,RU,13.2,73.51,80.55,88.0,48.0,7.09
+20,airai,Airai,TL,85.92,-8.93,125.41,55.0,12.0,1.16
+21,kamenskoye,,,,,,,,
+22,chernyshevskiy,Chernyshevskiy,RU,12.75,63.01,112.47,64.0,48.0,3.96
+23,busselton,Busselton,AU,77.47,-33.64,115.35,34.0,0.0,14.58
+24,qixingtai,Qixingtai,CN,70.53,30.41,111.89,94.0,0.0,4.74
+25,tuatapere,Tuatapere,NZ,64.99,-46.13,167.69,80.0,36.0,3.0
+26,karaton,Karaton,ID,82.06,-6.34,106.1,74.0,20.0,5.82
+27,tuktoyaktuk,Tuktoyaktuk,CA,14.0,69.44,-133.03,85.0,40.0,4.7
+28,rikitea,Rikitea,PF,77.64,-23.12,-134.97,100.0,0.0,21.63
+29,atbasar,Atbasar,KZ,13.74,51.81,68.36,73.0,24.0,10.0
+30,songjianghe,Songjianghe,CN,52.89,42.18,127.48,37.0,64.0,11.45
+31,iqaluit,Iqaluit,CA,-23.39,63.75,-68.52,67.0,20.0,9.17
+32,baoding,Baoding,CN,57.57,38.86,115.49,90.0,92.0,3.96
+33,faanui,Faanui,PF,83.49,-16.48,-151.75,100.0,68.0,5.64
+34,mataura,Mataura,NZ,64.99,-46.19,168.86,80.0,0.0,3.0
+35,saint george,Saint George,GR,49.71,39.45,22.34,93.0,0.0,2.95
+36,fort-shevchenko,Fort-Shevchenko,KZ,40.11,44.51,50.26,100.0,80.0,10.45
+37,kapaa,Kapaa,US,75.02,22.08,-159.32,57.0,40.0,8.05
+38,barrow,Barrow,AR,51.9,-38.31,-60.23,76.0,20.0,10.45
+39,ushuaia,Ushuaia,AR,50.0,-54.81,-68.31,66.0,40.0,6.93
+40,lucapa,Lucapa,AO,66.93,-8.42,20.74,91.0,24.0,2.62
+41,east london,East London,ZA,73.86,-33.02,27.91,100.0,56.0,22.19
+42,pergamino,Pergamino,AR,55.47,-33.9,-60.57,92.0,12.0,1.99
+43,kununurra,Kununurra,AU,91.4,-15.77,128.74,55.0,0.0,9.17
+44,sorong,Sorong,ID,82.32,-0.86,131.25,100.0,8.0,7.31
+45,morros,Morros,BR,78.8,-2.87,-44.04,94.0,40.0,8.05
+46,saldanha,Saldanha,PT,35.16,41.42,-6.55,95.0,0.0,5.97
+47,provideniya,Provideniya,RU,8.6,64.42,-173.23,71.0,0.0,2.24
+48,bengkulu,,,,,,,,
+49,nome,Nome,US,58.32,30.04,-94.42,58.0,1.0,3.36
+50,attawapiskat,,,,,,,,
+51,avarua,Avarua,CK,82.4,-21.21,-159.78,83.0,48.0,8.05
+52,yellowknife,Yellowknife,CA,35.29,62.45,-114.38,74.0,75.0,6.93
+53,port elizabeth,Port Elizabeth,US,37.71,39.31,-74.98,64.0,1.0,3.18
+54,salalah,Salalah,OM,73.4,17.01,54.1,60.0,0.0,4.7
+55,vila,Vila,IT,39.69,45.18,8.4,60.0,0.0,6.93
+56,guerrero negro,Guerrero Negro,MX,58.2,27.97,-114.04,73.0,0.0,9.44
+57,uniao,,,,,,,,
+58,mar del plata,Mar del Plata,AR,46.5,-46.43,-67.52,76.0,0.0,2.62
+59,cherskiy,Cherskiy,RU,-10.93,68.75,161.3,73.0,68.0,7.2
+60,tarnow,Tarnow,DE,31.62,53.78,12.02,86.0,20.0,3.36
+61,cayenne,Cayenne,GF,80.6,4.94,-52.33,78.0,75.0,11.41
+62,erenhot,Erenhot,CN,44.16,43.65,111.97,49.0,92.0,10.22
+63,teguldet,Teguldet,RU,22.2,57.31,88.17,72.0,20.0,3.62
+64,comodoro rivadavia,Comodoro Rivadavia,AR,50.0,-45.87,-67.48,87.0,0.0,2.24
+65,the pas,The Pas,CA,42.8,53.82,-101.24,56.0,1.0,9.17
+66,san miguel,San Miguel,AR,58.6,-34.54,-58.72,77.0,0.0,4.7
+67,nizhnevartovsk,Nizhnevartovsk,RU,26.6,60.93,76.58,73.0,40.0,4.47
+68,taolanaro,,,,,,,,
+69,coria,Coria,ES,42.81,39.98,-6.54,64.0,0.0,11.01
+70,sola,Sola,NO,43.52,58.89,5.65,93.0,75.0,13.87
+71,saint-philippe,Saint-Philippe,CA,26.15,45.36,-73.48,54.0,1.0,4.7
+72,tukrah,,,,,,,,
+73,yerbogachen,Yerbogachen,RU,16.08,61.28,108.01,65.0,56.0,3.74
+74,semibratovo,Semibratovo,RU,37.4,57.3,39.54,93.0,90.0,6.71
+75,los llanos de aridane,Los Llanos de Aridane,ES,64.4,28.66,-17.92,55.0,90.0,14.99
+76,priverno,Priverno,IT,45.05,41.47,13.18,70.0,5.0,12.75
+77,igarka,Igarka,RU,14.91,67.47,86.57,87.0,92.0,7.2
+78,robe,Robe,ET,42.18,7.12,40.01,74.0,0.0,2.17
+79,korla,,,,,,,,
+80,gat,Gat,SN,69.8,14.69,-16.54,73.0,0.0,16.11
+81,sao joao da barra,Sao Joao da Barra,BR,81.96,-21.64,-41.05,100.0,8.0,9.66
+82,nador,Nador,MA,54.43,35.17,-2.93,62.0,0.0,10.29
+83,alofi,Alofi,NU,86.0,-19.06,-169.92,70.0,75.0,5.82
+84,ponta delgada,Ponta Delgada,PT,54.34,37.73,-25.67,81.0,75.0,4.7
+85,hasaki,Hasaki,JP,63.12,35.73,140.83,48.0,0.0,12.75
+86,dosso,Dosso,NE,73.77,13.05,3.19,62.0,0.0,2.39
+87,terenos,Terenos,BR,75.2,-20.44,-54.87,94.0,20.0,3.36
+88,kutum,Kutum,SD,53.7,14.2,24.66,21.0,0.0,8.99
+89,bredasdorp,Bredasdorp,ZA,60.8,-34.53,20.04,87.0,92.0,3.36
+90,vaini,Vaini,IN,62.6,15.34,74.49,77.0,0.0,1.72
+91,castro,Castro,CL,44.6,-42.48,-73.76,75.0,32.0,5.82
+92,thompson,Thompson,CA,37.4,55.74,-97.86,69.0,75.0,13.87
+93,viedma,Viedma,AR,52.35,-40.81,-62.99,62.0,0.0,9.33
+94,esperance,Esperance,TT,76.24,10.24,-61.45,83.0,20.0,6.93
+95,atuona,Atuona,PF,82.59,-9.8,-139.03,99.0,44.0,16.15
+96,mitsamiouli,Mitsamiouli,KM,83.22,-11.38,43.28,95.0,92.0,5.19
+97,amderma,,,,,,,,
+98,luderitz,Luderitz,NA,58.47,-26.65,15.16,89.0,0.0,13.02
+99,katsuura,Katsuura,JP,53.55,33.93,134.5,81.0,40.0,2.24
+100,batagay-alyta,Batagay-Alyta,RU,-3.55,67.8,130.41,70.0,0.0,2.95
+101,linxia,Linxia,CN,39.75,35.6,103.21,50.0,8.0,3.62
+102,tiksi,Tiksi,RU,-11.83,71.64,128.87,75.0,0.0,5.75
+103,port alfred,Port Alfred,ZA,67.5,-33.59,26.89,95.0,76.0,5.01
+104,samalaeulu,,,,,,,,
+105,lompoc,Lompoc,US,57.18,34.64,-120.46,55.0,75.0,23.04
+106,chokurdakh,Chokurdakh,RU,-16.51,70.62,147.9,48.0,12.0,7.65
+107,nizhneyansk,,,,,,,,
+108,surt,Surt,LY,62.07,31.21,16.59,79.0,0.0,13.24
+109,ponta do sol,Ponta do Sol,BR,68.64,-20.63,-46.0,87.0,24.0,2.95
+110,akonolinga,Akonolinga,CM,70.44,3.77,12.24,88.0,8.0,2.84
+111,saskylakh,Saskylakh,RU,1.77,71.97,114.09,68.0,76.0,5.64
+112,west wendover,West Wendover,US,53.6,40.74,-114.07,25.0,1.0,10.29
+113,hendijan,,,,,,,,
+114,sinnamary,Sinnamary,GF,78.72,5.38,-52.96,99.0,92.0,10.78
+115,antofagasta,Antofagasta,CL,62.6,-23.65,-70.4,82.0,0.0,5.82
+116,jiazi,Jiazi,CN,77.0,19.61,110.49,83.0,0.0,11.18
+117,gizo,Gizo,IL,55.53,31.8,34.94,87.0,75.0,5.82
+118,vilhena,Vilhena,BR,74.31,-12.74,-60.15,90.0,36.0,1.61
+119,fortuna,Fortuna,ES,49.89,38.18,-1.13,62.0,20.0,3.36
+120,barentsburg,,,,,,,,
+121,ngukurr,,,,,,,,
+122,graham,Graham,US,40.93,36.07,-79.4,36.0,1.0,6.42
+123,yining,Yining,CN,72.06,29.04,114.56,79.0,88.0,11.56
+124,arraial do cabo,Arraial do Cabo,BR,80.97,-22.97,-42.02,92.0,44.0,10.78
+125,plettenberg bay,Plettenberg Bay,ZA,68.64,-34.05,23.37,100.0,80.0,17.27
+126,belushya guba,,,,,,,,
+127,madison,Madison,US,38.79,43.07,-89.38,52.0,1.0,3.36
+128,ekhabi,Ekhabi,RU,6.54,53.51,142.97,100.0,8.0,4.74
+129,kodiak,Kodiak,US,45.0,39.95,-94.76,100.0,90.0,9.17
+130,kathmandu,Kathmandu,NP,48.2,27.71,85.32,100.0,20.0,2.24
+131,teseney,Teseney,ER,62.97,15.11,36.66,66.0,0.0,3.74
+132,geraldton,Geraldton,CA,33.8,49.72,-86.95,69.0,90.0,10.29
+133,puerto ayora,Puerto Ayora,EC,77.0,-0.74,-90.35,92.0,0.0,4.0
+134,cidreira,Cidreira,BR,66.12,-30.17,-50.22,96.0,80.0,4.52
+135,itagiba,Itagiba,BR,66.7,-29.52,-50.57,98.0,32.0,2.39
+136,redmond,Redmond,US,74.97,47.67,-122.12,16.0,1.0,12.75
+137,broome,Broome,GB,47.01,52.47,1.45,87.0,0.0,8.05
+138,ornskoldsvik,Ornskoldsvik,SE,13.01,63.29,18.72,92.0,90.0,1.12
+139,seoul,Seoul,KR,49.35,37.57,126.98,76.0,40.0,3.36
+140,carnarvon,Carnarvon,ZA,53.07,-30.97,22.13,67.0,8.0,7.43
+141,itoman,Itoman,JP,71.4,26.12,127.67,60.0,20.0,8.05
+142,wahiawa,Wahiawa,US,76.59,21.5,-158.02,57.0,90.0,5.82
+143,naenwa,,,,,,,,
+144,poum,Poum,MK,32.64,41.28,20.71,91.0,0.0,1.83
+145,lemesos,,,,,,,,
+146,acapulco,Acapulco,MX,80.6,16.86,-99.88,69.0,5.0,5.82
+147,samusu,,,,,,,,
+148,nikolskoye,Nikolskoye,RU,34.66,59.7,30.79,93.0,90.0,4.47
+149,andenes,,,,,,,,
+150,nanortalik,Nanortalik,GL,26.61,60.14,-45.24,100.0,76.0,24.76
+151,punta arenas,Punta Arenas,CL,50.0,-53.16,-70.91,71.0,75.0,14.99
+152,nhulunbuy,Nhulunbuy,AU,84.2,-12.18,136.78,70.0,75.0,4.7
+153,maniwaki,Maniwaki,CA,19.14,46.38,-75.98,76.0,12.0,4.63
+154,luzhany,Luzhany,UA,39.93,48.36,25.77,91.0,92.0,6.08
+155,ust-tsilma,Ust-Tsilma,RU,30.66,65.44,52.15,94.0,88.0,5.08
+156,saleaula,,,,,,,,
+157,klaebu,Klaebu,NO,38.08,63.3,10.48,86.0,90.0,11.41
+158,konnur,Konnur,IN,78.99,15.86,75.5,35.0,0.0,5.3
+159,pevek,Pevek,RU,-8.23,69.7,170.27,79.0,44.0,27.34
+160,zyryanka,Zyryanka,RU,-1.66,65.73,150.89,58.0,0.0,3.18
+161,jacmel,Jacmel,HT,77.19,18.24,-72.54,100.0,0.0,8.88
+162,vao,Vao,EE,31.65,59.1,26.19,94.0,80.0,8.21
+163,leningradskiy,Leningradskiy,RU,-4.18,69.38,178.42,78.0,68.0,35.84
+164,altay,Altay,CN,15.99,47.83,88.13,71.0,48.0,1.28
+165,tual,Tual,ID,84.75,-5.67,132.75,98.0,8.0,9.66
+166,beyneu,Beyneu,KZ,39.57,45.32,55.19,91.0,68.0,1.61
+167,vardo,Vardo,US,36.14,39.62,-77.74,64.0,1.0,2.28
+168,muncie,Muncie,US,38.12,40.19,-85.39,69.0,1.0,3.96
+169,grand river south east,,,,,,,,
+170,sentyabrskiy,,,,,,,,
+171,aykhal,Aykhal,RU,6.45,65.95,111.51,75.0,56.0,3.96
+172,narsaq,Narsaq,GL,6.8,60.91,-46.05,46.0,56.0,6.93
+173,caravelas,Caravelas,BR,82.32,-17.73,-39.27,100.0,48.0,18.28
+174,general pico,General Pico,AR,52.35,-35.66,-63.75,53.0,0.0,6.42
+175,kavieng,Kavieng,PG,84.21,-2.57,150.8,100.0,0.0,3.96
+176,qaanaaq,Qaanaaq,GL,-33.97,77.48,-69.36,58.0,0.0,7.87
+177,smithers,Smithers,CA,57.2,54.78,-127.17,35.0,5.0,2.24
+178,butaritari,Butaritari,KI,76.74,3.07,172.79,100.0,92.0,11.01
+179,chicama,Chicama,PE,71.6,-7.84,-79.15,83.0,40.0,10.29
+180,uige,Uige,AO,71.34,-7.61,15.06,93.0,92.0,2.39
+181,tremedal,Tremedal,BR,80.6,-14.98,-41.41,57.0,75.0,9.17
+182,colac,Colac,AU,66.15,-38.34,143.59,92.0,80.0,2.84
+183,kitui,Kitui,KE,64.86,-1.37,38.02,95.0,76.0,2.73
+184,bethel,Bethel,US,18.19,60.79,-161.76,72.0,1.0,16.11
+185,san patricio,San Patricio,PY,67.92,-26.98,-56.83,87.0,8.0,3.74
+186,chengmai,,,,,,,,
+187,marawi,Marawi,PH,80.01,8.0,124.29,85.0,64.0,4.0
+188,charters towers,Charters Towers,AU,82.95,-20.07,146.27,83.0,8.0,9.55
+189,port-gentil,Port-Gentil,GA,80.79,-0.72,8.78,100.0,68.0,6.64
+190,hualmay,Hualmay,PE,68.19,-11.1,-77.61,89.0,12.0,3.4
+191,padang,Padang,ID,84.03,-0.92,100.36,100.0,0.0,3.96
+192,norman wells,Norman Wells,CA,57.2,65.28,-126.83,30.0,75.0,5.82
+193,wundanyi,Wundanyi,KE,62.34,-3.4,38.37,92.0,0.0,1.72
+194,pousat,,,,,,,,
+195,labuhan,Labuhan,ID,87.9,-2.54,115.51,68.0,0.0,3.06
+196,asyut,Asyut,EG,53.6,27.18,31.19,66.0,0.0,11.41
+197,emerald,Emerald,AU,92.25,-23.53,148.16,41.0,40.0,4.7
+198,marsh harbour,Marsh Harbour,BS,69.45,26.54,-77.06,100.0,92.0,7.09
+199,vaitupu,,,,,,,,
+200,kalmunai,Kalmunai,LK,80.07,7.42,81.82,84.0,0.0,2.73
+201,new norfolk,New Norfolk,AU,66.43,-42.78,147.06,82.0,75.0,6.93
+202,tsihombe,,,,,,,,
+203,khani,Khani,GE,39.2,41.96,42.96,86.0,0.0,4.7
+204,atagay,Atagay,RU,26.7,55.1,99.39,73.0,64.0,3.96
+205,nha trang,Nha Trang,VN,84.2,12.24,109.19,66.0,20.0,4.7
+206,lewiston,Lewiston,US,51.1,46.42,-117.02,41.0,1.0,4.7
+207,mahebourg,Mahebourg,MU,79.14,-20.41,57.7,83.0,75.0,9.17
+208,palmas bellas,Palmas Bellas,PA,79.72,9.23,-80.09,78.0,20.0,14.99
+209,asekeyevo,Asekeyevo,RU,12.84,53.57,52.8,65.0,12.0,2.73
+210,bathsheba,Bathsheba,BB,78.8,13.22,-59.52,65.0,20.0,17.22
+211,aksarka,Aksarka,RU,28.41,66.56,67.8,95.0,92.0,13.47
+212,mehran,Mehran,IR,39.2,33.12,46.17,75.0,0.0,2.24
+213,vestmannaeyjar,Vestmannaeyjar,IS,38.49,63.44,-20.27,84.0,76.0,30.91
+214,lebu,Lebu,ET,39.75,8.96,38.73,78.0,0.0,2.84
+215,buin,Buin,CL,69.69,-33.73,-70.74,74.0,0.0,10.29
+216,beringovskiy,Beringovskiy,RU,0.69,63.05,179.32,100.0,0.0,3.74
+217,lagoa,Lagoa,PT,57.72,37.14,-8.45,41.0,0.0,9.17
+218,maniitsoq,Maniitsoq,GL,-5.35,65.42,-52.9,100.0,24.0,8.55
+219,acajutla,Acajutla,SV,73.99,13.59,-89.83,81.0,0.0,1.99
+220,pita,Pita,GN,66.84,11.06,-12.4,68.0,0.0,2.28
+221,ahipara,Ahipara,NZ,74.58,-35.17,173.16,66.0,64.0,7.43
+222,altamira,Altamira,BR,78.72,-3.2,-52.21,84.0,0.0,4.07
+223,yarim,Yarim,YE,43.89,14.3,44.38,69.0,0.0,2.62
+224,madang,Madang,PG,83.4,-5.21,145.81,85.0,20.0,3.4
+225,ostrow wielkopolski,Ostrow Wielkopolski,PL,29.32,51.66,17.81,85.0,92.0,1.99
+226,puerto escondido,Puerto Escondido,MX,82.4,15.86,-97.07,69.0,75.0,6.2
+227,severnyy-kospashskiy,Severnyy-Kospashskiy,RU,19.0,59.09,57.8,36.0,36.0,1.01
+228,okhotsk,Okhotsk,RU,15.45,59.36,143.24,90.0,0.0,4.63
+229,flinders,Flinders,AU,77.0,-34.58,150.85,65.0,75.0,9.17
+230,lamu,Lamu,ID,88.17,0.57,122.3,64.0,0.0,2.39
+231,nantucket,Nantucket,US,32.22,41.28,-70.1,79.0,1.0,6.87
+232,belapatfalva,Belapatfalva,HU,30.99,48.05,20.37,33.0,0.0,5.41
+233,san andres,San Andres,PH,81.96,13.32,122.68,95.0,8.0,12.8
+234,chumikan,Chumikan,RU,17.25,54.72,135.31,54.0,0.0,3.74
+235,nyurba,Nyurba,RU,6.36,63.29,118.35,55.0,48.0,3.74
+236,rafraf,Rafraf,TN,48.24,37.19,10.18,81.0,40.0,2.24
+237,mala danylivka,Mala Danylivka,UA,39.2,50.06,36.17,80.0,0.0,6.71
+238,havre-saint-pierre,Havre-Saint-Pierre,CA,15.8,50.23,-63.6,66.0,40.0,10.29
+239,chuy,Chuy,UY,65.76,-33.69,-53.46,81.0,76.0,14.7
+240,loandjili,Loandjili,CG,77.0,-4.77,11.87,94.0,40.0,4.7
+241,placido de castro,Placido de Castro,BR,77.1,-10.34,-67.19,92.0,0.0,2.28
+242,rosa zarate,Rosa Zarate,EC,71.7,0.33,-79.47,96.0,68.0,1.95
+243,halalo,,,,,,,,
+244,grand gaube,Grand Gaube,MU,79.41,-20.01,57.66,83.0,75.0,9.17
+245,hilo,Hilo,US,71.33,19.71,-155.08,53.0,90.0,9.17
+246,khonuu,,,,,,,,
+247,fort nelson,Fort Nelson,CA,62.6,58.81,-122.69,20.0,20.0,2.17
+248,sioux lookout,Sioux Lookout,CA,34.12,50.1,-91.92,93.0,90.0,8.05
+249,madawaska,Madawaska,CA,15.55,47.36,-68.32,34.0,1.0,8.05
+250,port blair,Port Blair,IN,85.2,11.67,92.75,96.0,0.0,2.95
+251,sabang,Sabang,PH,82.5,13.72,123.58,78.0,76.0,12.68
+252,saryg-sep,Saryg-Sep,RU,18.6,51.49,95.55,66.0,48.0,2.95
+253,hinche,Hinche,HT,71.25,19.14,-72.01,77.0,68.0,3.18
+254,ajdabiya,Ajdabiya,LY,60.09,30.75,20.22,38.0,20.0,10.45
+255,krasnoselkup,,,,,,,,
+256,champerico,Champerico,MX,71.6,16.38,-93.6,68.0,5.0,16.11
+257,pavelets,Pavelets,RU,35.01,53.79,39.25,100.0,92.0,6.64
+258,lalmohan,Lalmohan,BD,81.33,22.34,90.74,82.0,0.0,4.74
+259,asenovgrad,Asenovgrad,BG,47.25,42.01,24.88,100.0,75.0,1.83
+260,chapais,Chapais,CA,12.2,49.78,-74.86,51.0,20.0,5.82
+261,vila franca do campo,Vila Franca do Campo,PT,54.3,37.72,-25.43,81.0,75.0,4.7
+262,karratha,Karratha,AU,100.14,-20.74,116.85,30.0,0.0,4.63
+263,marcona,,,,,,,,
+264,kassala,Kassala,SD,59.1,15.45,36.38,83.0,0.0,2.62
+265,scottsburgh,,,,,,,,
+266,aswan,Aswan,EG,54.87,24.09,32.9,65.0,44.0,5.53
+267,moba,Moba,CD,68.37,-7.04,29.77,96.0,48.0,0.72
+268,ust-nera,Ust-Nera,RU,-3.01,64.57,143.24,65.0,0.0,2.62
+269,mount gambier,Mount Gambier,AU,68.0,-37.83,140.78,77.0,90.0,9.17
+270,kismayo,,,,,,,,
+271,jacareacanga,Jacareacanga,BR,77.64,-6.22,-57.76,89.0,32.0,2.95
+272,high level,High Level,CA,62.6,58.52,-117.13,20.0,40.0,3.36
+273,pedasi,Pedasi,PA,77.64,7.53,-80.03,89.0,12.0,13.8
+274,san luis,San Luis,AR,51.54,-33.3,-66.34,27.0,0.0,7.65
+275,chenzhou,Chenzhou,CN,78.45,25.81,113.03,74.0,0.0,17.6
+276,bitkine,Bitkine,TD,66.12,11.98,18.21,27.0,0.0,6.2
+277,bowen,Bowen,AU,87.98,-20.01,148.25,66.0,40.0,11.41
+278,husavik,Husavik,CA,37.0,50.56,-96.99,80.0,0.0,7.0
+279,havelock,Havelock,US,47.7,34.88,-76.9,61.0,90.0,13.87
+280,quelimane,Quelimane,MZ,72.96,-17.88,36.89,97.0,68.0,3.4
+281,cristalina,Cristalina,BR,72.24,-16.77,-47.61,87.0,0.0,2.84
+282,vertou,Vertou,FR,40.5,47.17,-1.47,93.0,32.0,2.24
+283,ixtapa,Ixtapa,MX,75.11,20.71,-105.21,78.0,20.0,8.05
+284,namibe,Namibe,AO,75.39,-15.19,12.15,100.0,12.0,10.56
+285,portland,Portland,US,64.4,45.52,-122.67,39.0,75.0,18.34
+286,tarko-sale,Tarko-Sale,RU,18.0,64.92,77.78,88.0,68.0,1.99
+287,maracaju,Maracaju,BR,73.5,-21.61,-55.17,91.0,8.0,4.18
+288,tromso,Tromso,NO,33.53,69.65,18.96,55.0,0.0,40.26
+289,awbari,Awbari,LY,55.77,26.59,12.77,28.0,12.0,6.08
+290,broken hill,Broken Hill,AU,89.6,-31.97,141.45,15.0,0.0,8.05
+291,kaitangata,Kaitangata,NZ,67.74,-46.28,169.85,68.0,0.0,8.77
+292,rome,Rome,IT,45.03,41.89,12.48,70.0,0.0,8.05
+293,praia,Praia,BR,75.94,-20.25,-43.81,69.0,40.0,2.73
+294,richards bay,Richards Bay,ZA,71.7,-28.77,32.06,95.0,0.0,6.53
+295,dakar,Dakar,SN,69.8,14.69,-17.45,73.0,0.0,16.11
+296,fiumicino,Fiumicino,IT,44.92,41.77,12.23,70.0,0.0,8.05
+297,monroe,Monroe,US,37.96,41.91,-83.4,64.0,1.0,5.82
+298,homer,Homer,US,36.52,59.64,-151.54,60.0,1.0,8.05
+299,gambela,Gambela,ET,67.02,8.25,34.59,74.0,80.0,3.62
+300,haines junction,Haines Junction,CA,36.42,60.75,-137.51,64.0,0.0,3.29
+301,dingle,Dingle,PH,87.81,11.0,122.67,53.0,8.0,15.37
+302,varkkallai,Varkkallai,IN,82.4,8.73,76.71,78.0,20.0,5.82
+303,dagestanskiye ogni,Dagestanskiye Ogni,RU,33.81,42.12,48.19,96.0,92.0,2.39
+304,areia branca,Areia Branca,BR,84.2,-10.76,-37.31,74.0,40.0,13.87
+305,stornoway,,,,,,,,
+306,sistranda,Sistranda,NO,41.9,63.73,8.83,81.0,75.0,20.8
+307,yangcun,Yangcun,CN,66.99,29.98,118.17,93.0,92.0,11.9
+308,moranbah,Moranbah,AU,90.96,-22.0,148.04,53.0,0.0,5.19
+309,lipari,Lipari,IT,55.67,38.47,14.95,82.0,90.0,2.24
+310,shingu,Shingu,JP,59.0,33.72,135.99,58.0,0.0,4.7
+311,mercedes,Mercedes,UY,60.45,-33.25,-58.03,92.0,76.0,9.89
+312,urumqi,,,,,,,,
+313,inongo,Inongo,CD,75.12,-1.93,18.29,95.0,48.0,1.61
+314,lavrentiya,Lavrentiya,RU,3.75,65.58,-170.99,99.0,0.0,14.7
+315,laguna,Laguna,MX,78.8,27.52,-110.01,41.0,40.0,5.82
+316,te anau,Te Anau,NZ,70.44,-45.41,167.72,64.0,20.0,2.95
+317,udachnyy,Udachnyy,RU,9.24,66.42,112.4,67.0,64.0,3.29
+318,georgetown,Georgetown,GY,77.83,6.8,-58.16,83.0,20.0,13.87
+319,isfana,Isfana,KG,55.4,39.84,69.53,58.0,90.0,6.71
+320,bulungu,Bulungu,CD,70.08,-4.54,18.6,96.0,80.0,5.64
+321,parkes,Parkes,AU,91.0,-33.14,148.18,31.0,20.0,1.99
+322,zunyi,Zunyi,CN,74.85,27.73,106.92,46.0,0.0,7.65
+323,salair,Salair,RU,22.38,54.23,85.8,81.0,64.0,2.73
+324,saryshagan,,,,,,,,
+325,jabinyanah,Jabinyanah,TN,51.9,35.03,10.91,76.0,92.0,18.05
+326,kemijarvi,,,,,,,,
+327,port hedland,Port Hedland,AU,96.8,-20.31,118.58,37.0,76.0,8.05
+328,iki-burul,Iki-Burul,RU,28.13,45.82,44.65,92.0,0.0,11.18
+329,severo-kurilsk,Severo-Kurilsk,RU,26.34,50.68,156.12,100.0,44.0,25.32
+330,galveston,Galveston,US,37.36,40.58,-86.19,74.0,1.0,6.93
+331,general roca,General Roca,AR,50.0,-39.03,-67.58,71.0,0.0,6.08
+332,petrolandia,,,,,,,,
+333,cerea,Cerea,IT,42.31,45.19,11.21,66.0,20.0,4.7
+334,elizabeth city,Elizabeth City,US,41.45,36.3,-76.22,49.0,90.0,12.75
+335,tucuman,Tucuman,PE,54.42,-17.17,-70.89,80.0,8.0,0.49
+336,umm lajj,Umm Lajj,SA,60.0,25.02,37.27,100.0,32.0,6.2
+337,stephenville,Stephenville,US,59.68,32.22,-98.2,39.0,1.0,6.93
+338,lorut,Lorut,AM,26.88,40.94,44.77,89.0,76.0,1.83
+339,sisimiut,Sisimiut,GL,-32.71,66.94,-53.67,0.0,0.0,1.95
+340,chitral,Chitral,PK,16.35,35.85,71.79,88.0,36.0,1.39
+341,clyde river,Clyde River,CA,-16.61,70.47,-68.59,68.0,90.0,18.34
+342,evensk,Evensk,RU,8.25,61.92,159.24,100.0,8.0,14.81
+343,monrovia,Monrovia,LR,75.2,6.33,-10.8,94.0,75.0,3.36
+344,prince rupert,Prince Rupert,CA,62.6,54.32,-130.32,82.0,1.0,4.7
+345,ribeira grande,Ribeira Grande,PT,59.73,38.52,-28.7,98.0,64.0,13.24
+346,torbay,Torbay,CA,23.99,47.66,-52.73,73.0,90.0,12.75
+347,andselv,,,,,,,,
+348,port lincoln,Port Lincoln,AU,69.27,-34.72,135.86,86.0,0.0,7.54
+349,necochea,Necochea,AR,50.92,-38.55,-58.74,85.0,36.0,10.78
+350,grindavik,Grindavik,IS,32.85,63.84,-22.43,92.0,75.0,40.26
+351,bonavista,Bonavista,CA,25.0,48.65,-53.11,63.0,64.0,4.0
+352,makakilo city,Makakilo City,US,76.57,21.35,-158.09,57.0,90.0,10.29
+353,camacha,Camacha,PT,60.8,33.08,-16.33,72.0,40.0,13.87
+354,salym,Salym,RU,19.5,60.06,71.48,90.0,12.0,7.2
+355,puerto cabezas,Puerto Cabezas,NI,80.25,14.04,-83.39,90.0,0.0,10.33
+356,visnes,Visnes,NO,44.15,59.36,5.22,93.0,92.0,12.75
+357,araouane,Araouane,ML,57.84,18.9,-3.53,19.0,0.0,4.74
+358,gamba,Gamba,CN,8.97,28.28,88.52,89.0,0.0,2.39
+359,ostrovnoy,Ostrovnoy,RU,29.22,68.05,39.51,95.0,88.0,16.26
+360,waipawa,Waipawa,NZ,70.0,-39.94,176.59,63.0,80.0,4.0
+361,khatanga,Khatanga,RU,11.85,71.98,102.47,81.0,88.0,10.0
+362,nanfeng,Nanfeng,CN,73.77,27.22,116.52,75.0,24.0,12.01
+363,ayan,Ayan,TR,22.74,40.67,33.6,67.0,0.0,2.17
+364,corinto,Corinto,BR,70.17,-18.36,-44.46,96.0,32.0,2.84
+365,shar,Shar,NG,80.16,7.3,8.73,71.0,20.0,13.47
+366,nalut,Nalut,LY,49.65,31.86,10.98,89.0,80.0,12.01
+367,bairiki,,,,,,,,
+368,san pedro de macoris,San Pedro de Macoris,DO,75.02,18.46,-69.3,83.0,20.0,5.82
+369,kidal,Kidal,ML,62.97,18.44,1.41,19.0,0.0,6.64
+370,illela,Illela,NG,71.79,12.39,4.75,62.0,0.0,2.39
+371,maarianhamina,,,,,,,,
+372,faya,Faya,SA,61.74,18.39,42.45,38.0,0.0,9.17
+373,bambous virieux,Bambous Virieux,MU,79.18,-20.34,57.76,83.0,75.0,9.17
+374,paamiut,Paamiut,GL,21.12,61.99,-49.67,100.0,68.0,15.7
+375,nea peramos,Nea Peramos,GR,51.84,38.0,23.42,87.0,20.0,6.93
+376,tacna,Tacna,PE,67.33,-18.01,-70.25,72.0,40.0,5.82
+377,longyearbyen,Longyearbyen,NO,24.8,78.22,15.63,85.0,75.0,47.2
+378,taoudenni,Taoudenni,ML,54.6,22.68,-3.98,23.0,8.0,6.08
+379,sao filipe,Sao Filipe,CV,71.34,14.9,-24.5,96.0,88.0,11.56
+380,alta floresta,Alta Floresta,BR,76.38,-9.87,-56.08,91.0,0.0,1.95
+381,hwange,Hwange,ZW,73.05,-18.35,26.5,52.0,0.0,10.11
+382,peleduy,Peleduy,RU,14.73,59.63,112.75,69.0,68.0,3.29
+383,kirgiz-miyaki,Kirgiz-Miyaki,RU,24.27,53.63,54.8,82.0,68.0,2.17
+384,turka,Turka,UA,37.0,49.16,23.03,73.0,88.0,5.19
+385,telbang,Telbang,PH,85.83,16.17,120.06,78.0,0.0,8.55
+386,walvis bay,Walvis Bay,NA,59.65,-22.95,14.51,87.0,8.0,6.93
+387,jabiru,,,,,,,,
+388,pangnirtung,Pangnirtung,CA,-29.11,66.15,-65.72,45.0,0.0,3.29
+389,rockhampton,Rockhampton,AU,87.8,-23.38,150.51,58.0,75.0,4.7
+390,salinopolis,Salinopolis,BR,77.64,-0.61,-47.36,100.0,44.0,5.97
+391,turkistan,,,,,,,,
+392,henties bay,Henties Bay,NA,60.01,-22.12,14.28,95.0,92.0,3.0
+393,sur,Sur,OM,68.82,22.57,59.53,100.0,0.0,5.41
+394,cabedelo,Cabedelo,BR,80.6,-6.97,-34.84,88.0,20.0,4.7
+395,povoa de varzim,Povoa de Varzim,PT,52.21,41.38,-8.76,76.0,0.0,9.17
+396,makinsk,Makinsk,KZ,10.95,52.63,70.42,69.0,8.0,6.64
+397,belousovka,Belousovka,KZ,14.0,50.13,82.52,92.0,90.0,0.72
+398,ruatoria,,,,,,,,
+399,ambositra,Ambositra,MG,53.25,-20.53,47.24,93.0,0.0,2.62
+400,port hardy,Port Hardy,CA,66.2,50.7,-127.42,34.0,40.0,8.05
+401,tessalit,Tessalit,ML,52.62,20.2,1.01,27.0,0.0,4.41
+402,jarjis,,,,,,,,
+403,vila velha,Vila Velha,BR,77.43,-3.71,-38.6,94.0,20.0,6.42
+404,yar-sale,Yar-Sale,RU,29.13,66.83,70.83,92.0,88.0,18.05
+405,srednekolymsk,Srednekolymsk,RU,-2.74,67.46,153.71,61.0,32.0,3.18
+406,trinidad,Trinidad,UY,60.54,-33.52,-56.9,72.0,80.0,10.45
+407,koutiala,Koutiala,ML,81.42,12.39,-5.46,58.0,48.0,2.95
+408,general elizardo aquino,General Elizardo Aquino,PY,73.14,-24.45,-56.9,94.0,64.0,7.2
+409,hirara,Hirara,JP,75.25,24.8,125.28,78.0,40.0,14.99
+410,jalu,Jalu,LY,57.57,29.03,21.55,35.0,36.0,3.4
+411,taburi,,,,,,,,
+412,asau,,,,,,,,
+413,juneau,Juneau,US,56.17,58.3,-134.42,47.0,20.0,4.7
+414,pangkalanbuun,Pangkalanbuun,ID,86.64,-2.68,111.62,86.0,0.0,5.64
+415,vigrestad,Vigrestad,NO,43.52,58.57,5.7,93.0,75.0,13.87
+416,constitucion,Constitucion,MX,71.6,23.99,-104.67,10.0,5.0,8.05
+417,ihosy,Ihosy,MG,57.3,-22.4,46.13,90.0,8.0,2.62
+418,sao bento,,,,,,,,
+419,hanzhong,Hanzhong,CN,61.44,33.08,107.03,67.0,0.0,1.61
+420,santa comba,Santa Comba,ES,48.24,43.03,-8.81,87.0,0.0,2.24
+421,menongue,Menongue,AO,70.08,-14.66,17.68,45.0,8.0,2.95
+422,klaksvik,Klaksvik,FO,41.0,62.23,-6.59,89.0,68.0,26.4
+423,diego de almagro,Diego de Almagro,CL,59.46,-26.39,-70.05,87.0,0.0,2.28
+424,yabelo,Yabelo,ET,68.55,4.89,38.09,51.0,0.0,7.76
+425,hihifo,,,,,,,,
+426,mrirt,,,,,,,,
+427,road town,Road Town,VG,76.69,18.42,-64.62,65.0,40.0,10.29
+428,westpunt,,,,,,,,
+429,santarem,,,,,,,,
+430,suao,,,,,,,,
+431,ocala,Ocala,US,59.34,29.19,-82.14,72.0,90.0,12.75
+432,maguyam,Maguyam,PH,86.81,14.26,121.01,58.0,20.0,6.93
+433,ternate,Ternate,PH,86.81,14.29,120.72,58.0,20.0,6.93
+434,kynsperk nad ohri,Kynsperk nad Ohri,CZ,30.25,50.12,12.53,86.0,0.0,2.24
+435,kirkcudbright,Kirkcudbright,GB,47.5,54.84,-4.04,98.0,88.0,12.68
+436,tongliao,Tongliao,CN,46.86,43.61,122.27,48.0,44.0,18.28
+437,rodeo,Rodeo,MX,57.93,25.18,-104.56,45.0,36.0,5.64
+438,artvin,Artvin,TR,44.6,41.18,41.83,87.0,0.0,4.7
+439,bandarbeyla,Bandarbeyla,SO,76.92,9.49,50.81,100.0,92.0,9.66
+440,ust-kamchatsk,,,,,,,,
+441,sao gabriel da cachoeira,Sao Gabriel da Cachoeira,BR,76.38,-0.13,-67.09,94.0,44.0,2.62
+442,senanga,Senanga,ZM,68.82,-16.1,23.3,64.0,24.0,3.74
+443,harper,Harper,US,57.04,30.3,-99.24,58.0,90.0,8.05
+444,nouadhibou,Nouadhibou,MR,64.4,20.93,-17.03,77.0,36.0,17.22
+445,sibolga,Sibolga,ID,77.55,1.74,98.78,87.0,12.0,2.17
+446,pitimbu,Pitimbu,BR,80.6,-7.47,-34.81,88.0,20.0,4.7
+447,zarubino,Zarubino,RU,51.36,42.65,131.06,61.0,20.0,2.17
+448,lishu,Lishu,CN,57.21,43.31,124.32,62.0,92.0,18.28
+449,san rafael,San Rafael,AR,39.66,-34.61,-68.33,52.0,0.0,2.73
+450,aitape,Aitape,PG,83.76,-3.15,142.36,85.0,44.0,11.01
+451,yirol,,,,,,,,
+452,luganville,Luganville,VU,85.2,-15.51,167.18,94.0,48.0,8.88
+453,deputatskiy,Deputatskiy,RU,-4.27,69.3,139.9,62.0,0.0,3.96
+454,caluquembe,Caluquembe,AO,57.48,-13.78,14.68,88.0,44.0,1.61
+455,lander,Lander,US,40.64,42.83,-108.73,52.0,1.0,3.18
+456,zhurivka,Zhurivka,UA,42.8,50.5,31.77,87.0,90.0,7.99
+457,nouna,Nouna,BF,80.34,12.73,-3.87,55.0,80.0,3.4
+458,ukiah,Ukiah,US,56.14,39.15,-123.21,43.0,92.0,1.61
+459,kulhudhuffushi,Kulhudhuffushi,MV,83.85,6.62,73.07,100.0,0.0,6.2
+460,hay river,Hay River,CA,59.0,60.82,-115.79,26.0,40.0,8.05
+461,nerekhta,Nerekhta,RU,37.4,57.46,40.57,93.0,90.0,6.71
+462,sciacca,Sciacca,IT,49.59,37.51,13.08,87.0,0.0,2.24
+463,san ramon,San Ramon,NI,68.0,12.92,-85.84,72.0,0.0,1.99
+464,manaure,Manaure,CO,78.09,11.78,-72.45,90.0,0.0,22.08
+465,rodrigues alves,Rodrigues Alves,BR,76.38,-7.74,-72.65,94.0,36.0,3.62
+466,riyaq,,,,,,,,
+467,ketchikan,Ketchikan,US,58.44,55.34,-131.65,51.0,1.0,4.7
+468,ratnagiri,Ratnagiri,IN,76.29,16.98,73.3,100.0,0.0,6.42
+469,lianyuan,Lianyuan,CN,76.74,27.69,111.67,74.0,0.0,12.8
+470,pisco,Pisco,PE,69.8,-13.71,-76.2,77.0,0.0,19.46
+471,urdzhar,,,,,,,,
+472,palabuhanratu,,,,,,,,
+473,ziro,Ziro,IN,48.3,27.54,93.82,99.0,92.0,1.61
+474,kokopo,Kokopo,PG,84.48,-4.34,152.27,94.0,36.0,2.17
+475,saint-pierre,Saint-Pierre,FR,34.18,48.95,4.24,86.0,0.0,5.82
+476,siderno,Siderno,IT,56.37,38.28,16.3,82.0,90.0,2.24
+477,roma,Rome,IT,45.03,41.89,12.48,70.0,0.0,8.05
+478,kendari,Kendari,ID,87.9,-3.99,122.52,81.0,8.0,3.62
+479,novosokolniki,Novosokolniki,RU,31.83,56.35,30.15,84.0,76.0,14.03
+480,aberlour,,,,,,,,
+481,goundam,Goundam,ML,75.57,16.42,-3.66,26.0,8.0,12.12
+482,billings,Billings,US,41.83,45.79,-108.5,39.0,1.0,6.93
+483,sovetskiy,Sovetskiy,RU,32.55,56.76,48.47,95.0,88.0,11.45
+484,wad rawah,Wad Rawah,SD,66.12,15.16,33.13,27.0,0.0,9.1
+485,meulaboh,Meulaboh,ID,83.22,4.14,96.13,100.0,0.0,2.39
+486,progreso,Progreso,UY,65.26,-34.68,-56.22,52.0,90.0,16.11
+487,alice springs,Alice Springs,AU,91.4,-23.7,133.88,14.0,0.0,16.11
+488,rajanpur,Rajanpur,PK,60.54,29.1,70.33,80.0,0.0,3.06
+489,kanniyakumari,Kanniyakumari,IN,82.95,8.08,77.57,100.0,0.0,1.61
+490,suamico,Suamico,US,37.94,44.63,-88.04,55.0,1.0,3.36
+491,wellington,Wellington,NZ,69.35,-41.29,174.78,77.0,0.0,8.05
+492,havoysund,Havoysund,NO,33.8,71.0,24.66,55.0,0.0,19.46
+493,ampanihy,Ampanihy,MG,67.29,-24.69,44.75,92.0,0.0,2.73
+494,olonets,Olonets,RU,32.37,60.98,32.97,98.0,88.0,2.73
+495,kangalassy,Kangalassy,RU,-14.81,62.35,129.97,68.0,0.0,2.24
+496,maun,Maun,BW,71.6,-19.99,23.42,49.0,0.0,3.36
+497,agadez,Agadez,NE,69.72,16.97,7.99,34.0,68.0,4.29
+498,shakiso,Shakiso,ET,51.36,5.77,38.9,77.0,0.0,2.51
+499,noumea,Noumea,NC,84.2,-22.28,166.46,62.0,75.0,11.41
+500,codajas,Codajas,BR,79.44,-3.84,-62.06,86.0,20.0,3.74
+501,ilulissat,Ilulissat,GL,-11.21,69.22,-51.1,63.0,0.0,16.11
+502,muzhi,Muzhi,RU,29.94,65.4,64.7,83.0,76.0,12.24
+503,upata,Upata,VE,76.11,8.02,-62.41,63.0,0.0,8.21
+504,carutapera,Carutapera,BR,77.37,-1.2,-46.02,97.0,76.0,5.08
+505,alice town,Alice Town,BS,69.81,25.72,-79.3,100.0,92.0,24.76
+506,lasa,Lasa,CY,50.88,34.92,32.53,93.0,20.0,5.82
+507,gorno-chuyskiy,,,,,,,,
+508,solnechnyy,Solnechnyy,RU,19.95,50.72,136.64,69.0,0.0,6.42
+509,miraflores,Miraflores,CO,53.16,5.2,-73.14,95.0,24.0,1.39
+510,mayo,Mayo,CA,48.2,63.59,-135.9,57.0,90.0,2.24
+511,sinop,Sinop,TR,45.87,42.03,35.15,94.0,0.0,10.33
+512,pangody,Pangody,RU,22.47,65.85,74.49,86.0,88.0,16.49
+513,umzimvubu,,,,,,,,
+514,santiago,Santiago,CL,68.34,-33.44,-70.65,74.0,0.0,10.29
+515,valentin gomez farias,Valentin Gomez Farias,MX,71.6,24.05,-104.7,10.0,5.0,8.05
+516,nguiu,,,,,,,,
+517,rio grande,Rio Grande,BR,68.55,-32.03,-52.1,93.0,92.0,12.24
+518,bang mun nak,Bang Mun Nak,TH,82.68,16.03,100.38,77.0,48.0,4.63
+519,paita,Paita,PE,77.64,-5.09,-81.11,77.0,92.0,4.74
+520,sambava,Sambava,MG,81.15,-14.27,50.17,100.0,56.0,10.33
+521,margate,Margate,AU,66.45,-43.03,147.26,82.0,75.0,6.93
+522,sirvintos,Sirvintos,LT,33.64,55.05,24.95,86.0,90.0,10.29
+523,ibra,Ibra,OM,51.99,22.69,58.55,95.0,0.0,1.39
+524,one hundred mile house,,,,,,,,
+525,sept-iles,Sept-Iles,CA,7.59,50.2,-66.38,84.0,5.0,4.7
+526,virginia beach,Virginia Beach,US,40.77,36.85,-75.98,60.0,20.0,5.82
+527,san quintin,San Quintin,PH,85.92,17.54,120.52,56.0,0.0,1.39
+528,nizhniy kuranakh,Nizhniy Kuranakh,RU,11.76,58.84,125.49,59.0,56.0,3.62
+529,puerto narino,Puerto Narino,CO,78.8,-3.77,-70.38,100.0,75.0,3.74
+530,miroslava,Miroslava,RO,42.44,47.15,27.53,87.0,90.0,13.87
+531,gidam,Gidam,IN,75.39,18.98,81.4,76.0,8.0,3.96
+532,whitehorse,Whitehorse,CA,53.83,60.72,-135.06,37.0,75.0,9.17
+533,nisia floresta,Nisia Floresta,BR,80.6,-6.09,-35.21,83.0,20.0,3.36
+534,palmdale,Palmdale,US,59.04,34.58,-118.12,67.0,1.0,11.41
+535,dunedin,Dunedin,NZ,61.0,-45.87,170.5,81.0,0.0,1.99
+536,muisne,Muisne,EC,70.53,0.61,-80.02,91.0,24.0,2.73
+537,general teran,General Teran,MX,54.42,25.27,-99.68,94.0,64.0,2.62
+538,the valley,The Valley,AI,77.88,18.22,-63.06,69.0,75.0,16.11
+539,batemans bay,Batemans Bay,AU,74.48,-35.71,150.18,71.0,68.0,3.0
+540,turtkul,,,,,,,,
+541,flin flon,Flin Flon,CA,32.1,54.77,-101.88,95.0,0.0,4.18
+542,san cristobal,San Cristobal,EC,51.57,-0.39,-78.55,87.0,90.0,4.7
+543,kyrylivka,Kyrylivka,UA,29.94,47.65,37.3,89.0,0.0,4.29
+544,hambantota,Hambantota,LK,71.6,6.12,81.12,100.0,5.0,1.12
+545,hovd,Hovd,NO,39.04,63.83,10.7,86.0,90.0,11.41
+546,iroquois falls,Iroquois Falls,CA,33.8,48.76,-80.69,50.0,90.0,5.82
+547,saint-andre-les-vergers,Saint-Andre-les-Vergers,FR,33.06,48.29,4.05,75.0,0.0,4.18
+548,biak,Biak,ID,88.71,-0.91,122.88,67.0,12.0,1.95
+549,sitka,Sitka,US,46.0,37.17,-99.65,59.0,92.0,8.21
+550,albury,Albury,AU,83.17,-36.08,146.92,45.0,8.0,4.7
+551,cockburn town,Cockburn Town,TC,78.54,21.46,-71.14,97.0,0.0,13.35
+552,jumla,Jumla,NP,28.68,29.28,82.18,78.0,0.0,1.95
+553,thornhill,Thornhill,GB,48.4,55.24,-3.77,93.0,75.0,4.7
+554,tiznit,Tiznit,MA,55.05,29.7,-9.73,89.0,0.0,1.28
+555,sainte-maxime,Sainte-Maxime,FR,41.02,43.31,6.64,80.0,0.0,4.7
+556,ust-barguzin,Ust-Barguzin,RU,21.75,53.41,109.03,64.0,8.0,2.95
+557,medicine hat,Medicine Hat,CA,50.58,50.04,-110.68,66.0,20.0,10.29
+558,bayan,Bayan,MN,17.07,47.25,107.54,50.0,20.0,9.66
+559,lichtenburg,Lichtenburg,ZA,67.47,-26.15,26.16,37.0,48.0,5.86
+560,quatre cocos,Quatre Cocos,MU,79.27,-20.21,57.76,83.0,75.0,9.17
+561,utiroa,,,,,,,,
+562,koungou,,,,,,,,
+563,mount pleasant,Mount Pleasant,US,59.56,33.16,-94.97,39.0,1.0,3.36
+564,ulaangom,Ulaangom,MN,12.84,49.98,92.07,72.0,64.0,2.73
+565,baruun-urt,Baruun-Urt,MN,23.1,46.68,113.28,51.0,88.0,16.26
+566,szubin,Szubin,PL,31.68,53.01,17.74,92.0,20.0,4.7
+567,arlit,Arlit,NE,73.77,18.74,7.39,52.0,64.0,3.06
+568,tevaitoa,Tevaitoa,PF,84.12,-16.78,-151.5,100.0,76.0,8.77
+569,catamarca,,,,,,,,
+570,namatanai,Namatanai,PG,85.02,-3.66,152.44,97.0,12.0,3.06
+571,bolungarvik,,,,,,,,
+572,formosa,Formosa,AR,75.2,-26.19,-58.17,83.0,0.0,2.24
+573,auki,Auki,NG,68.64,12.18,6.51,51.0,0.0,2.39
+574,maiduguri,Maiduguri,NG,70.53,11.84,13.15,29.0,0.0,9.1
+575,karaul,,,,,,,,
+576,touros,Touros,BR,80.6,-5.2,-35.46,88.0,20.0,2.24
+577,isernia,Isernia,IT,47.61,41.6,14.24,87.0,75.0,6.93
+578,fairbanks,Fairbanks,US,28.54,64.84,-147.72,63.0,1.0,8.05
+579,tak,Tak,TH,75.2,16.87,99.12,73.0,20.0,1.95
+580,kalbay,Kalbay,PH,80.6,5.72,125.5,78.0,75.0,4.7
+581,iraquara,Iraquara,BR,78.54,-12.24,-41.62,60.0,92.0,4.41
+582,lakselv,Lakselv,NO,22.39,70.05,24.96,67.0,8.0,26.4
+583,zhezkazgan,Zhezkazgan,KZ,12.2,47.8,67.71,85.0,24.0,13.42
+584,pacific grove,Pacific Grove,US,57.13,36.62,-121.92,55.0,1.0,11.41
+585,cairns,Cairns,AU,75.96,-16.92,145.77,88.0,90.0,14.99
+586,dongzhen,Dongzhen,CN,61.08,43.33,129.73,40.0,80.0,6.2
+587,williams lake,Williams Lake,CA,41.64,52.13,-122.14,60.0,0.0,3.74
+588,astana,Astana,KZ,6.8,51.13,71.43,84.0,0.0,13.42
+589,angoram,Angoram,PG,86.82,-4.06,144.07,80.0,48.0,3.85
+590,nizwa,Nizwa,OM,47.13,22.93,57.53,67.0,0.0,3.06
+591,luanda,Luanda,AO,78.8,-8.83,13.24,88.0,75.0,3.36
+592,pilar,Pilar,AR,58.6,-34.46,-58.91,77.0,0.0,4.7
+593,sotouboua,Sotouboua,TG,76.92,8.56,0.98,70.0,0.0,6.98
+594,ghanzi,Ghanzi,BW,68.1,-21.7,21.65,72.0,32.0,2.73
+595,troitsko-pechorsk,Troitsko-Pechorsk,RU,33.27,62.71,56.19,92.0,88.0,7.2
+596,chilca,Chilca,PE,51.8,-13.22,-72.34,76.0,92.0,3.36
+597,dolgoye,Dolgoye,RU,33.9,52.06,37.53,92.0,92.0,3.29
+598,olovyannaya,Olovyannaya,RU,29.04,50.94,115.59,36.0,48.0,3.62
+599,timra,Timra,SE,17.67,62.49,17.33,92.0,76.0,3.36
+600,louisbourg,,,,,,,,
+601,kailua,Kailua,US,76.6,21.39,-157.74,78.0,90.0,10.29
+602,salinas,Salinas,US,57.06,36.67,-121.66,67.0,1.0,20.8
+603,rio gallegos,Rio Gallegos,AR,48.2,-51.62,-69.22,70.0,0.0,10.29
+604,matagami,Matagami,NG,62.79,9.67,8.4,65.0,0.0,1.28
+605,dudinka,Dudinka,RU,17.43,69.41,86.18,83.0,88.0,9.78
